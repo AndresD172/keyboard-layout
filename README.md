@@ -5,7 +5,7 @@ Simple script en bash para cambiar la distribución del teclado mediante atajos 
 
 Simplemente añades la linea 
 
-'''bindsym (combinación de tecla) exec --no-startup-id sh /home/andres/.config/i3/scripts/change_keyboard_layout.sh''' 
+´´´bindsym (combinación de tecla) exec --no-startup-id sh /home/andres/.config/i3/scripts/change_keyboard_layout.sh´´´ 
 
 a tu archivo de configuración de I3WM.
 
@@ -13,9 +13,9 @@ a tu archivo de configuración de I3WM.
 
 Añade las lineas 
 
-''' (combinación de teclas)
+´´´ (combinación de teclas)
         $HOME/.scripts/change_keyboard_layout.sh
-'''
+´´´
 
 a tu archivo sxhkdrc
 
